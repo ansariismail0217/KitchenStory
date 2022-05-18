@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Biryani",
+      "rating": "4.2",
+      "price": "$49"
+    },
+    {
+      "id": 5,
+      "name": "Hamburger",
+      "rating": "4.5",
+      "price": "$27"
+    },
+    {
+      "id": 6,
+      "name": "Coke",
+      "rating": "4.4",
+      "price": "$9"
+    },
+    {
+      "id": 7,
+      "name": "Dominos Pizza",
+      "rating": "4.8",
+      "price": "$79"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Abdullah",
+      "email": "abdullah@gmail.com",
+      "mobile": "5462879311",
+      "password": "adfa4654af",
+      "id": 1
+    },
+    {
+      "name": "Abdullah Ismail Ansari",
+      "email": "ansariismail0217@gmail.com",
+      "mobile": "7905111709",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "name": "Abdullah Ansari",
+      "email": "abdullah.ansari@gmail.com",
+      "mobile": "923456801",
+      "password": "qwertyuiop",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

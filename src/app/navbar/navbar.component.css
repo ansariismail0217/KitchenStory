@@ -1,0 +1,18 @@
+.jumbotron{
+	background-color: #eed56f;
+}
+h2{
+    font-family: 'Merienda', cursive;
+    color: black;
+}
+.container table{
+    background-color: lightgreen;
+}
+h1{
+    text-shadow: 4px 3px 3px white;
+}
+.lead{
+    font-size: 25px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
